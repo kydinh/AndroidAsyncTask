@@ -1,0 +1,14 @@
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/androidasyntask/MainActivity.java
+/home/tinvo/android-example/AndroidAsyncTask/target/generated-sources/r/com/example/androidasyntask/R.java
+/home/tinvo/android-example/AndroidAsyncTask/target/generated-sources/r/com/example/androidasyntask/BuildConfig.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/api/ApiGateway.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/util/Strings.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/androidasyntask/AuthenticationGateway.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/androidasyntask/Callbacks.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/api/JsonApiRespone.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/util/Pair.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/api/ApiRequest.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/api/ApiResponseCallbacks.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/api/Http.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/api/ApiResponse.java
+/home/tinvo/android-example/AndroidAsyncTask/src/main/java/com/example/androidasyntask/SigninRequest.java
